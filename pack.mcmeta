@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "This datapack adds stonecutter recipes",
+    "pack_format": 57,
+    "supported_formats": [57,61]
+  }
+}
