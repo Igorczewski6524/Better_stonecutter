@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": ["minecraft:jungle_wood", "minecraft:jungle_log", "minecraft:stripped_jungle_wood", "minecraft:stripped_jungle_log"],
+  "result": {
+    "id": "minecraft:jungle_trapdoor",
+    "count": 4
+  }
+}
